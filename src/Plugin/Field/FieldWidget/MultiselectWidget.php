@@ -19,7 +19,7 @@ use Drupal\Core\Form\FormStateInterface;
  *   id = "multiselect",
  *   label = @Translation("Multiselect"),
  *   field_types = {
- *     "list_text",
+ *     "list_string",
  *     "list_float",
  *     "list_integer",
  *     "user_reference",
